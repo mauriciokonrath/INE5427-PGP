@@ -1,0 +1,159 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20231031192709-02'00')
+/ModDate (D:20231031192709-02'00')
+/Title (Project Charter)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 3827 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 248.878 747.449 Td /F2 13.5 Tf  [(Project Charter)] TJ ET
+1.000 1.000 1.000 rg
+BT 355.537 714.276 Td /F1 0.8 Tf  [(Empresa)] TJ ET
+0.753 0.753 0.753 rg
+BT 358.538 714.276 Td /F1 8.2 Tf  [(Empresa)] TJ ET
+BT 391.546 714.276 Td /F1 8.2 Tf  [(: Empresa - Grupo_2259)] TJ ET
+BT 419.043 704.622 Td /F1 8.2 Tf  [(Data)] TJ ET
+BT 436.467 704.622 Td /F1 8.2 Tf  [(: 31/10/2023)] TJ ET
+0.000 0.000 0.000 rg
+BT 112.943 658.640 Td /F2 8.2 Tf  [(Título do projeto: )] TJ ET
+BT 112.943 646.888 Td /F1 8.2 Tf  [(Machine Learning auxiliando o diagnóstico de TEA)] TJ ET
+BT 112.943 623.585 Td /F2 8.2 Tf  [(Gerente do projeto:)] TJ ET
+BT 112.943 611.833 Td /F1 8.2 Tf  [(Grupo 2259)] TJ ET
+BT 112.943 588.531 Td /F2 8.2 Tf  [(Justificativa: )] TJ ET
+BT 112.943 576.779 Td 0.574 Tw /F1 8.2 Tf  [(Este trabalho busca, a partir de técnicas de aprendizado de máquina, analisar dados envolvendo o )] TJ ET
+BT 112.943 565.027 Td 0.609 Tw /F1 8.2 Tf  [(padrão de comportamento ocular para auxiliar no diagnóstico de TEA em crianças. Esse auxílio se )] TJ ET
+BT 112.943 553.275 Td 1.609 Tw /F1 8.2 Tf  [(torna importante, pois aliado com outras técnicas, pode-se gerar um pré diagnóstico com maior )] TJ ET
+BT 112.943 541.523 Td 2.164 Tw /F1 8.2 Tf  [(confiabilidade, afim de proporcionar um tratamento precoce às crianças, para que as mesmas )] TJ ET
+BT 112.943 529.771 Td 0.000 Tw /F1 8.2 Tf  [(possam desenvolver suas habilidades sociais.)] TJ ET
+BT 112.943 506.468 Td /F2 8.2 Tf  [(Objetivos:)] TJ ET
+BT 112.943 494.716 Td 0.233 Tw /F1 8.2 Tf  [(Coletar e analisar dados extraídos de uma ferramenta de rastreamento ocular já implementada para )] TJ ET
+BT 112.943 482.964 Td 0.000 Tw /F1 8.2 Tf  [(auxiliar no diagnóstico de crianças propensas a desenvolverem transtorno do espectro autista.)] TJ ET
+BT 112.943 459.662 Td /F2 8.2 Tf  [(Resultados esperados: )] TJ ET
+BT 112.943 447.910 Td /F1 8.2 Tf  [(- Relatório inicial e entregue dentro do prazo para TCC 1. )] TJ ET
+BT 112.943 436.158 Td /F1 8.2 Tf  [(- Relatório rascunho e entregue dentro do prazo para TCC 2. )] TJ ET
+BT 112.943 424.406 Td /F1 8.2 Tf  [(- Relatório completo e final entregue dentro do prazo para TCC 2. )] TJ ET
+BT 112.943 412.654 Td /F1 8.2 Tf  [(- Ferramenta capaz de elaborar um diagnóstico correto.)] TJ ET
+BT 112.943 389.351 Td /F2 8.2 Tf  [(Premissas: )] TJ ET
+BT 112.943 377.599 Td /F1 8.2 Tf  [(- Parceria com o instituto Farol, para realização dos testes. )] TJ ET
+BT 112.943 365.847 Td /F1 8.2 Tf  [(- Acompanhamento semanal com o orientador. )] TJ ET
+BT 112.943 354.095 Td /F1 8.2 Tf  [(- Ferramenta base para a análise dos dados. )] TJ ET
+BT 112.943 342.343 Td /F1 8.2 Tf  [(- Webcam com uma boa qualidade.)] TJ ET
+BT 112.943 319.041 Td /F2 8.2 Tf  [(Restrições:)] TJ ET
+BT 112.943 307.289 Td /F1 8.2 Tf  [(- Relatório entregue dentro do prazo pré-definido. )] TJ ET
+BT 112.943 295.537 Td /F1 8.2 Tf  [(- Sofware de código aberto e livre.)] TJ ET
+BT 112.943 272.234 Td /F2 8.2 Tf  [(Orçamento \(R$\): )] TJ ET
+BT 112.943 260.482 Td /F1 8.2 Tf  [(20.000,00)] TJ ET
+BT 112.943 237.180 Td /F2 8.2 Tf  [(Data de início: )] TJ ET
+BT 112.943 225.428 Td /F1 8.2 Tf  [(04/03/2024)] TJ ET
+BT 112.943 202.126 Td /F2 8.2 Tf  [(Data de encerramento: )] TJ ET
+BT 112.943 190.374 Td /F1 8.2 Tf  [(20/12/2024)] TJ ET
+BT 112.943 167.072 Td /F2 8.2 Tf  [(Marcos: )] TJ ET
+BT 112.943 155.320 Td /F1 8.2 Tf  [(Relatório Completo \(28/06/2024\))] TJ ET
+BT 112.943 143.567 Td /F1 8.2 Tf  [(Relatório Rascunho \(14/10/2024\))] TJ ET
+BT 112.943 131.815 Td /F1 8.2 Tf  [(Defesa TCC \(28/10/2024\))] TJ ET
+BT 112.943 120.063 Td /F1 8.2 Tf  [(Entrega Definitiva \(11/11/2024\))] TJ ET
+BT 112.943 85.211 Td /F2 8.2 Tf  [(Critérios de aceite: )] TJ ET
+BT 112.943 73.459 Td /F1 8.2 Tf  [(- Ferramenta deve gerar um pré diagnóstico com X% de confiabilidade. )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 537 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 112.943 735.899 Td /F1 8.2 Tf  [(- Análise correta dos dados extraídos. )] TJ ET
+BT 112.943 689.497 Td /F1 8.2 Tf  [(- Apresentação com domínio no assunto.)] TJ ET
+BT 276.322 654.645 Td /F2 8.2 Tf  [(Signatures)] TJ ET
+0.000 0.000 0.000 RG
+267.148 604.324 m 325.839 604.324 l 325.839 603.574 l 267.148 603.574 l  f
+BT 267.148 596.693 Td /F1 8.2 Tf  [(Project Sponsor)] TJ ET
+263.246 557.922 m 332.034 557.922 l 332.034 557.172 l 263.246 557.172 l  f
+BT 263.246 550.290 Td /F1 8.2 Tf  [(Gerente do projeto)] TJ ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000458 00000 n 
+0000000521 00000 n 
+0000004400 00000 n 
+0000004507 00000 n 
+0000004619 00000 n 
+0000004684 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+5273
+%%EOF
